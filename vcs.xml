@@ -26,6 +26,10 @@
           <option name="url" value="https://gitlab.com/b10102016/nice_sleepIan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/david2896482/sqliteTest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IanWorkSpace\project\SMCProject\" />
